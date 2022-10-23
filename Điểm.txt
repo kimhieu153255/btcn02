@@ -1,0 +1,34 @@
+Họ tên Sinh Viên: Lê Kim Hiếu.
+MSSV: 20120474.
+
+- Giao diện cơ bản với bố cục và các thành phần yêu cầu (chưa có
+dữ liệu movie, phải điền đủ các thông tin yêu cầu => Hoàn thành (1đ).
+- Giao diện cơ bản với bố cục và các thành phần yêu cầu (chưa có
+dữ liệu movie, phải điền đủ các thông tin yêu cầu => Hoàn thành (1đ).
+- Danh sách 5 Movie chiếu rạp mới nhất hiển thị như yêu cầu với các
+thông tin cơ bản: poster, title, rated, length,... => Hoàn thành (1đ).
+- Danh sách 15~30 Movie phổ biến nhất hiển thị như yêu cầu => Hoàn thành (1đ).
+- hiệu ứng highlight khi hover Movie như yêu cầu (có thêm một số
+thông tin) => Hoàn thành (1đ).
+- Danh sách 15~30 Movie thứ hạng cao nhất hiển thị như yêu cầu
+mà KHÔNG clone code => Hoàn thành (1đ).
+- Danh sách 15~30 Movie thứ hạng cao nhất hiển thị như yêu cầu
+mà KHÔNG clone code => Hoàn thành (1đ).
+- Thực hiện tìm kiếm Movie theo tên và hiển thị theo dạng CardView
+với các thông tin cơ bản: poster, title, rated, length,... => Hoàn thành (1đ).
+- Thực hiện tìm kiếm Movie theo Diễn viên => Hoàn thành (1đ).
+- Xem chi tiết Movie, cần hiển thị được hình ảnh, tiêu đề, năm sản
+xuất, đạo diễn, tóm tắt, thông tin diễn viên, thể loại => Hoàn thành (1đ).
+- Xem thông tin chi tiết diễn viên (nhấn liên kết từ tên diễn viên trong
+xem chi tiết Movie) cần hiển thị được hình ảnh, tên diễn viên, tiểu sử. Cần
+hiển thị thêm được danh sách Movie diễn viên có tham gia (dạng danh
+sách có nhiều thông tin) => Chưa hoàn thành (0đ).
+- Xem thông tin chi tiết diễn viên (nhấn liên kết từ tên diễn viên trong
+xem chi tiết Movie) cần hiển thị được hình ảnh, tên diễn viên, tiểu sử. Cần
+hiển thị thêm được danh sách Movie diễn viên có tham gia (dạng danh
+sách có nhiều thông tin) => chưa hoàn thành(0đ).
+- thực hiên được chứ năng về Home và có hiệu ứng Loading => Hoàn thành (0.5đ).
+- có phân trang ở các danh sách: kết quả tìm kiếm, danh sách phim
+của diễn viên => Chưa hoàn thành (0đ).
+
+=>Tổng điểm làm được: 10.5 => 105đ
