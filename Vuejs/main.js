@@ -177,9 +177,9 @@ export default {
       this.isDisplay = false;
       let arr = [];
       store.datas.forEach((el) => {
-        if (el.title.toLowerCase().includes(name)) {
+        if (el.title.toLowerCase().includes(name.toLowerCase())) {
           arr.push(el);
-        } else if (el.star.toLowerCase().includes(name)) {
+        } else if (el.star.toLowerCase().includes(name.toLowerCase())) {
           arr.push(el);
         }
       });
